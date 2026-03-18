@@ -1,0 +1,62 @@
+
+==============================================================
+RAPPORT AUTOMATIQUE — MARCHE DES DERIVES OTC
+Société Générale Global Solution Centre
+Date : 18/03/2026
+Source : BIS — Bank for International Settlements
+==============================================================
+
+1. RESUME EXECUTIF
+------------------
+Ce rapport analyse l'evolution des marches de derives OTC
+de 2013 a 2022, couvrant 182,878 observations
+issues de la base BIS.
+
+2. KPIS CLES
+------------
+Volume total 2022        : 0.7 milliers de milliards $
+Croissance FX swaps      : +84.6% entre 2013 et 2022
+Part FX swaps marche     : 38.2% du volume total 2022
+
+3. EVOLUTION DES VOLUMES PAR ANNEE
+-----------------------------------
+   2013 : 0.4 milliers de milliards $
+   2016 : 0.4 milliers de milliards $  (-2.6% vs période précédente)
+   2019 : 0.7 milliers de milliards $  (+66.5% vs période précédente)
+   2022 : 0.7 milliers de milliards $  (+9.9% vs période précédente)
+
+4. TOP 3 INSTRUMENTS (2022)
+----------------------------
+   FX swaps                       :        283 milliards $ (38.2%)
+   Spot                           :        126 milliards $ (17.1%)
+   Interest rate swaps            :        104 milliards $ (14.0%)
+
+5. TOP 3 PAYS (2022)
+---------------------
+   United Kingdom                 :         69 milliards $
+   United States                  :         40 milliards $
+   Singapore                      :         12 milliards $
+
+6. ANALYSE FX SWAPS
+--------------------
+Les FX swaps sont l'instrument dominant du marche OTC.
+Leur croissance de +84.6% entre 2013 et 2022
+reflète l'internationalisation croissante des echanges
+et le besoin de couverture de risque de change.
+
+   2013 : 153 milliards $
+   2016 : 164 milliards $
+   2019 : 220 milliards $
+   2022 : 283 milliards $
+
+7. CONCLUSIONS ET RECOMMANDATIONS
+-----------------------------------
+- Les FX swaps representent 38.2% du marche — instrument strategique
+- Le Royaume-Uni reste la 1ere place financiere mondiale pour les derives
+- Croissance soutenue post-Covid : reprise des volumes en 2022
+- Recommandation : renforcer le monitoring des FX swaps EUR/USD
+
+==============================================================
+Rapport genere automatiquement par le Chatbot Financier Gen AI
+Datathon MBA ESG / ESG Executive / Societe Generale — 2024
+==============================================================
